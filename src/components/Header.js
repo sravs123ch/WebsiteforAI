@@ -17,6 +17,7 @@ export default function Header({ scrollToSection }) {
         </div>
 
         <nav className="flex space-x-6">
+          
           <button onClick={() => scrollToSection('about')} className="text-black hover:text-indigo-500">
             Home
           </button>

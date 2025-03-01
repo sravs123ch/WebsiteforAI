@@ -6,7 +6,7 @@ function Contact() {
   return (
     <div className="min-h-screen flex flex-col items-center bg-gray-100 p-8">
       {/* Main Content Section */}
-      <div className="w-full max-w-6xl grid grid-cols-1 lg:grid-cols-2 gap-12">
+      <div className="w-full max-w-6xl grid grid-cols-1 lg:grid-cols-2 gap-12 mt-24">
           {/* Contact Information - Right Side */}
           <div className="space-y-8">
 

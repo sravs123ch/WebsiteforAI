@@ -7,7 +7,7 @@ export default function Skill() {
   return (
     <div className="skills-section p-6">
       <h2 className="text-2xl font-bold text-center mb-4">Skills</h2>
-      <div className="grid grid-cols-3 gap-6">
+      <div className="grid grid-cols-3 gap-6 mt-24">
         <div className="flex justify-center">
           <FaHtml5 className="text-orange-500 text-9xl" />
         </div>
